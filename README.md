@@ -1,7 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE    : 10.02.2024
-#### NAME    : B.PAVIZHI
-#### REG.NO. : 212221230077
+### DATE    : 12.02.2024
+#### NAME    : S.MAGAA VELAN
+#### REG.NO. : 212221040093
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
